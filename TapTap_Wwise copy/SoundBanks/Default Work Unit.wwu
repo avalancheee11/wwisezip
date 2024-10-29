@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FAC2FE43-6393-46F1-A667-E13EE9C292E9}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{FAC2FE43-6393-46F1-A667-E13EE9C292E9}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="General" ID="{F65EB477-5214-4F1A-B9F5-AF67BEF83997}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Stone_Pick" ID="{065EFD95-1805-403E-A749-782AE4D08E51}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ho_Ho_Ho_Santa_01" ID="{BB3373F1-169C-408B-B2B1-EA949719BBFA}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Cup_Pick" ID="{0B8AC796-873C-4222-B135-C0DD36321C8C}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_guitarloop" ID="{F4CC6DE3-6F5A-4228-80AC-5136B84D03DA}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="testplay" ID="{23F1AB3B-4FE5-423B-9979-E37A82FE589A}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ambience_wind" ID="{1ABF8F80-E82D-4266-AD76-BBFC3A8CA0A7}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TurnUpSfx" ID="{C6E18690-A939-426F-A889-D435A2A3359D}" WorkUnitID="{AEFE103C-FC5F-4DA1-82AE-C0A9AD9BB713}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_FireMagic" ID="{75326FFF-336F-42AC-8A0D-FA21E57C49E7}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Trash" ID="{E760AF78-4BD6-430F-B0FA-E9BFE6B886BD}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_theme" ID="{AC1F2775-A0FB-4333-A98A-82F44D7908CE}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Click_1" ID="{EFE4C305-0527-436C-8695-345A3B49CA89}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Grinding" ID="{F155B041-6E72-43A7-A8C3-F0941F15C4AD}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Fishing" ID="{A9035A63-E167-43B5-86EC-BB3F58EAC674}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Player_Attack" ID="{7691B5EF-9684-4444-AE9D-F660FD6D8551}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Boss_Die" ID="{A013ABE2-3EC1-445A-A575-DD9B93164C97}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_theme" ID="{D1BB1256-170E-446D-B71A-491F3C2FEBB1}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Footsteps_Grass" ID="{36ED8BD6-4D20-447E-B665-D169E1326B75}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Click_Select" ID="{E11AFA04-5F5F-44B6-9160-B74D54E0ED13}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Ambience_wind" ID="{16F171BE-4629-44BC-9B59-508ADADF7DCB}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Click_3" ID="{A921AA7B-4CED-4502-9EAD-B19B709D8A85}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Plant_Pick" ID="{E6C37AA1-8A59-4510-9C7B-9D52C832DA43}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ambience_Forest" ID="{DCD00A36-0D1F-453D-BAF2-99899C960BE8}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_menu" ID="{FDE14B24-A6C4-455C-A571-02133E234604}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Turn_up" ID="{5E86307C-F69B-4564-83E5-40F7A76774C2}" WorkUnitID="{11AC9011-3803-41DE-9EB1-E9F7D014E99E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_Battle" ID="{E53A31B0-8218-4566-9C35-E98DECFD6969}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="TurnDownSfx" ID="{FE2AC70C-FB00-457B-A570-E58C358DC77F}" WorkUnitID="{AEFE103C-FC5F-4DA1-82AE-C0A9AD9BB713}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_Magic" ID="{52C89317-6983-4599-B910-BEF57B238295}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_Ruge" ID="{18C505C5-F743-4782-A8DF-3542767823F7}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_UI_Click_4" ID="{E68648EA-DA0A-4796-8858-B16F6BC32740}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Turn_down" ID="{D3F92D67-838B-47E8-B485-5DCA805149BA}" WorkUnitID="{11AC9011-3803-41DE-9EB1-E9F7D014E99E}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_Magic" ID="{1D1F2EAA-D42E-47F3-96D9-2DED95D7F122}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_Ruge" ID="{BEED530C-78C7-48A4-BA0A-299A3A785653}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Ambience_Forest" ID="{6E25688A-DEB1-48CE-B4B3-81F2AF7EDFC5}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Song_guitarloop" ID="{6D1C65F4-DDD0-499D-99F5-7C6B21964D4F}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_Forest" ID="{141F347F-08EB-49CD-B8C6-DC38CC41A8D8}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_boss_attack" ID="{44B2D683-D692-49F9-9E4E-9DA3232F6C08}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Ladder" ID="{0603EEFC-25C8-4C2B-A3D9-E647DB322AC6}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_Battle" ID="{08EB36EC-C853-4C4D-88C2-0ED84A1507DD}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Song_menu" ID="{814B38AD-5DF8-4D53-84D9-86FDDBC389FC}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Turn_Downsfxtest" ID="{0B30A9D6-C700-4F55-872F-7F14EA1B92CD}" WorkUnitID="{AEFE103C-FC5F-4DA1-82AE-C0A9AD9BB713}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_DoorBell" ID="{0A73641D-BCE7-4FA1-A3F9-7C65D0C3C6AD}" WorkUnitID="{23BEF9D7-D5AE-4CD2-9E95-ED53FB73E119}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

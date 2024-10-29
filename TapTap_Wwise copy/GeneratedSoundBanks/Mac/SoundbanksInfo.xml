@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{DFC24E19-F735-0AC6-F587-3D179CDC3AB6}">
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<Media>
+				<File Id="312953689" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Songs 1 thru 5 wavs\Song 3 idea soft piano synth 10.20.24.wav</ShortName>
+					<CachePath>SFX/Songs 1 thru 5 wavs/Song 3 idea soft piano synth 10.20.24_409B7530.wem</CachePath>
+				</File>
+				<File Id="903146824" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Songs 1 thru 5 wavs\song 1 soft elec piano 10.20.24.wav</ShortName>
+					<CachePath>SFX/Songs 1 thru 5 wavs/song 1 soft elec piano 10.20.24_9E86D890.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2119995893" Name="Play_Song_menu">
+					<MediaRefs>
+						<MediaRef Id="312953689"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2457704367" Name="Play_Song_theme">
+					<MediaRefs>
+						<MediaRef Id="903146824"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D326F752-7CA2-0A14-FDB1-63ECE89D0199}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{5A93C397-90E1-F392-B962-356F9BE66216}</FileHash>
+</SoundBanksInfo>

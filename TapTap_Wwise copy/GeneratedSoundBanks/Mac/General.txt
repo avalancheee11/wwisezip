@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2119995893	Play_Song_menu			\Default Work Unit\Play_Song_menu	
+	2457704367	Play_Song_theme			\Default Work Unit\Play_Song_theme	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	312953689	Song_menu	Y:\Desktop\TapTap_Wwise\.cache\Mac\SFX\Songs 1 thru 5 wavs\Song 3 idea soft piano synth 10.20.24_409B7530.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Song_menu		12852316
+	903146824	Song_theme	Y:\Desktop\TapTap_Wwise\.cache\Mac\SFX\Songs 1 thru 5 wavs\song 1 soft elec piano 10.20.24_9E86D890.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Song_theme		7876736
+

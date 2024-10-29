@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Web" BasePlatform="Web" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Web</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="133642231" Type="User" Language="SFX" Hash="{00119ADF-A850-F750-7022-7DC3F91871E4}">
+			<ShortName>General</ShortName>
+			<Path>General.bnk</Path>
+			<Media>
+				<File Id="903146824" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Songs 1 thru 5 wavs\song 1 soft elec piano 10.20.24.wav</ShortName>
+					<CachePath>SFX/Songs 1 thru 5 wavs/song 1 soft elec piano 10.20.24_9E86D890.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2457704367" Name="Play_Song_theme" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="903146824"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{9AD51C11-AF19-EF16-B981-B8F04CFCFFB6}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{9E67E914-F014-D5A3-00B3-D033FF2A654F}</FileHash>
+</SoundBanksInfo>

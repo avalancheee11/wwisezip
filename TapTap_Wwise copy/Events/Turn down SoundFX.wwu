@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AEFE103C-FC5F-4DA1-82AE-C0A9AD9BB713}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Turn down SoundFX" ID="{AEFE103C-FC5F-4DA1-82AE-C0A9AD9BB713}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="TurnUpSfx" ID="{C6E18690-A939-426F-A889-D435A2A3359D}">
+					<ChildrenList>
+						<Action Name="" ID="{71A05BBF-97D8-41FE-8D18-B73252880033}" ShortID="896616017">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="11"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SoundFX" ID="{5922BECA-69E6-4D67-BF95-11B9A54DE241}" WorkUnitID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="TurnDownSfx" ID="{FE2AC70C-FB00-457B-A570-E58C358DC77F}">
+					<ChildrenList>
+						<Action Name="" ID="{EB1F444E-1054-497E-8394-730DB8AAD10D}" ShortID="595781949">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="11"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+								<Property Name="Volume" Type="Real64" Value="-96"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SoundFX" ID="{5922BECA-69E6-4D67-BF95-11B9A54DE241}" WorkUnitID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Turn_Downsfxtest" ID="{0B30A9D6-C700-4F55-872F-7F14EA1B92CD}">
+					<ChildrenList>
+						<Action Name="" ID="{F8D741A6-8F35-4C3F-8D4F-99A782CCBE2A}" ShortID="452202507">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Click_1" ID="{6976A12E-7A76-4D13-9422-3D5F34EC3A00}" WorkUnitID="{CFD006CD-C714-436F-BDEF-D8C8AE9F250A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{76B48CB0-43FC-4580-A249-F35A24F7EC37}" ShortID="658091868">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="11"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+								<Property Name="Volume" Type="Real64" Value="-96"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SoundFX" ID="{5922BECA-69E6-4D67-BF95-11B9A54DE241}" WorkUnitID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

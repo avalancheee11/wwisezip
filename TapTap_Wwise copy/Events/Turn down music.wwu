@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{11AC9011-3803-41DE-9EB1-E9F7D014E99E}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Turn down music" ID="{11AC9011-3803-41DE-9EB1-E9F7D014E99E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Turn_down" ID="{D3F92D67-838B-47E8-B485-5DCA805149BA}">
+					<ChildrenList>
+						<Action Name="" ID="{9C1A7CB8-C49D-49C3-9AB8-2428DFCC54CF}" ShortID="816567072">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="11"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+								<Property Name="Volume" Type="Real64" Value="-96"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{80A10075-F6EB-4733-A911-A7C2DBBB3200}" WorkUnitID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Turn_up" ID="{5E86307C-F69B-4564-83E5-40F7A76774C2}">
+					<ChildrenList>
+						<Action Name="" ID="{2CFA9207-2A94-4D4B-8BD2-4C0F1629073B}" ShortID="391604549">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="11"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{80A10075-F6EB-4733-A911-A7C2DBBB3200}" WorkUnitID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

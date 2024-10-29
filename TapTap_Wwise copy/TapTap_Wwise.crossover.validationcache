@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Triggers\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\TapTap_Wwise.wproj" DateLow="1730175465" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\TapTap_Wwise.crossover.wsettings" DateLow="1730175465" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Switches\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\States\Default Work Unit.wwu" DateLow="1729748882" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1730178122" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Queries\Factory Queries.wwu" DateLow="1729293147" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Queries\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1729293147" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Presets\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Modulators\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Metadata\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1729909554" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Events\Turn down SoundFX.wwu" DateLow="1730161146" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Events\Turn down music.wwu" DateLow="1729909666" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Events\Default Work Unit.wwu" DateLow="1730177673" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Effects\Factory Effects.wwu" DateLow="1729293147" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Effects\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1729293147" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1729565954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\TapTap_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1730177673" DateHigh="0"/>
+</ValidationCache>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D49DBB9D-013C-4B50-AB62-4265E26F9DAD}" SchemaVersion="119">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{D49DBB9D-013C-4B50-AB62-4265E26F9DAD}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="VolumeControl" ID="{9015DA07-2A5A-4D51-BADB-AFF3751A71A1}">
+					<ChildrenList>
+						<State Name="None" ID="{2242366B-060D-4A59-AF00-6CC3C288A83E}"/>
+						<State Name="Music_Off" ID="{37F59DFB-4489-4B1F-9361-67E728500D02}"/>
+						<State Name="Music_On" ID="{7284CA26-1771-432A-8C80-63879C60000C}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="Music_On" ID="{7284CA26-1771-432A-8C80-63879C60000C}"/>
+							<EndState Name="Music_Off" ID="{37F59DFB-4489-4B1F-9361-67E728500D02}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+						<Transition>
+							<StartState Name="Music_Off" ID="{37F59DFB-4489-4B1F-9361-67E728500D02}"/>
+							<EndState Name="Music_On" ID="{7284CA26-1771-432A-8C80-63879C60000C}"/>
+							<Time>0</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

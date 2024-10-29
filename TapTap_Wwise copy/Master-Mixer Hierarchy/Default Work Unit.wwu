@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}" SchemaVersion="119">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{124CE8F6-039B-4CCB-BA5E-6BB431C6B548}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{D2B957BF-A367-45BF-8C92-66CFAE0B6D44}" WorkUnitID="{BE098E80-128F-403F-94B2-1219FAB6082C}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="Music" ID="{80A10075-F6EB-4733-A911-A7C2DBBB3200}"/>
+						<Bus Name="SoundFX" ID="{5922BECA-69E6-4D67-BF95-11B9A54DE241}"/>
+					</ChildrenList>
+					<StateInfo>
+						<StateGroupList>
+							<StateGroupInfo>
+								<StateGroupRef Name="VolumeControl" ID="{9015DA07-2A5A-4D51-BADB-AFF3751A71A1}"/>
+							</StateGroupInfo>
+						</StateGroupList>
+						<CustomStateList>
+							<CustomState>
+								<StateRef Name="Music_On" ID="{7284CA26-1771-432A-8C80-63879C60000C}"/>
+								<CustomState Name="" ID="{DDC51A40-82EC-48EE-9663-FABAE5053CAE}" ShortID="696203613"/>
+							</CustomState>
+							<CustomState>
+								<StateRef Name="Music_Off" ID="{37F59DFB-4489-4B1F-9361-67E728500D02}"/>
+								<CustomState Name="" ID="{93F4563D-616A-4CB4-96A9-00D2EA7033E4}" ShortID="449255030">
+									<PropertyList>
+										<Property Name="BusVolume" Type="Real64" Value="-96"/>
+										<Property Name="Volume" Type="Real64" Value="-108"/>
+									</PropertyList>
+								</CustomState>
+							</CustomState>
+						</CustomStateList>
+					</StateInfo>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
